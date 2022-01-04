@@ -8,9 +8,20 @@
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  
+  
 <br>
+  
+  
+  
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Srabon1731h&custom_title=ShahariearOsman%20Srabon's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+  
+  
+  
 <br>
+  
+  
+  
 <div align="center">
     <a href="https://www.facebook.com/Srabon Srabon">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
