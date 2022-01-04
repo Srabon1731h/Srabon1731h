@@ -20,21 +20,10 @@
   
 <br>
   
-  
-  
-<div align="center">
-  
-  
-  
-  
-      
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-      
-    
-  
+ 
+       
   
   </a>
-  
   
   
   
@@ -46,10 +35,7 @@
 <h3 align="center">My StatisticsMy Statistics</h3>
 
 
-
-
 <br/>
-
 
 
 <p align="center">
@@ -57,25 +43,9 @@
   <a href="https://github.com/Srabon1731h/">
     
     
-    
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Srabon1731h&show_icons=true&theme=gruvbox&hide_border=true" />
-    
-    
-    
-    
-    
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Srabon1731&theme=gruvbox&hide_border=true" />
-    
-    
-    
-    
-    
   </a>
-  
-  
-  
-  
-  
 </p>
 
 
@@ -88,5 +58,5 @@
 <p align="center" style="background-color:yellow; padding-top:5px;">
 <p align="center" style="padding-top:5px;">
  <a href="https://github.com/Srabon1731h"><img src="https://i.ibb.co/tXhy23t/github.png" alt="GitHub" width='40px' targer="blank"></a>
- <a href="https://twitter.com"><img src="https://i.ibb.co/sJQ1pgn/twitter.png" alt="Twitter" width='40px' targer="blank"></a>
+ <a href="https://facebook.com/Srabon Srabon"><img src="https://i.ibb.co/sJQ1pgn/facebook.png" alt="Facebook" width='40px' targer="blank"></a>
  
