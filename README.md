@@ -60,3 +60,15 @@
  <a href="https://github.com/Srabon1731h"><img src="https://i.ibb.co/tXhy23t/github.png" alt="GitHub" width='40px' targer="blank"></a>
  <a href="https://https://www.facebook.com/"><img src="https://i.ibb.co/sJQ1pgn/facebook.png" alt="Facebook" width='40px' targer="blank"></a>
  
+  
+  
+  
+ssh-keygen -t rsa -b 4096 -C "srabon1731h@gmail.com"
+  
+  
+  
+  git config --global user.name "Srabon1731h"
+  
+  
+  
+ git config --global user.email "srabon1731h@gmail.com"
