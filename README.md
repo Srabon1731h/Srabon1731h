@@ -62,11 +62,11 @@
 
 
 
-![](./profile-3d-contrib/profile-blue.svg)
+<!-- ![](./profile-3d-contrib/profile-blue.svg) -->
 
   
   
-  
+  [![NPM](https://nodei.co/npm/3d-force-graph.png?compact=true)](https://nodei.co/npm/3d-force-graph/)
   
   
   
