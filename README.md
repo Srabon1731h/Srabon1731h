@@ -63,7 +63,7 @@
   
   
   
-  <hra>
+  <hr>
   
   
   
@@ -78,13 +78,3 @@
   
   
   
-<!-- ssh-keygen -t rsa -b 4096 -C "srabon1731h@gmail.com"
-  
-  
-  
-  git config --global user.name "Srabon1731h"
-  
-  
-  
- git config --global user.email "srabon1731h@gmail.com"
- -->
