@@ -67,16 +67,8 @@
   
   
 
-  import ForceGraph3D from '3d-force-graph';
   
   
-  
-  <script src="//unpkg.com/3d-force-graph"></script>
-  
-  
- var myGraph = ForceGraph3D();
-myGraph(<myDOMElement>)
-    .graphData(<myData>); 
-  
+
   
   
