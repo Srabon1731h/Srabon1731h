@@ -62,7 +62,7 @@
 
 
 
-<!-- ![](./profile-3d-contrib/profile-blue.svg) -->
+![](./profile-3d-contrib/profile-blue.svg)
 
   
   
