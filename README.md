@@ -61,7 +61,6 @@
 
 
 
-![Srabon1731h](./profile-3d-contrib/profile-green-animate.svg
 
   
   
