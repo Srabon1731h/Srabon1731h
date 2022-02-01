@@ -29,7 +29,7 @@
   
   
 <div align="center">
-    <a href="https://www.facebook.com/">
+    <a href="https://www.facebook.com/srabon1731h">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
@@ -61,8 +61,7 @@
 
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
+![Srabon1731h](./profile-3d-contrib/profile-green-animate.svg
 
   
   
